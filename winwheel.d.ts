@@ -1,1 +1,1 @@
-declare module 'winwheel';
+declare module '@evshiron/winwheel.js';
